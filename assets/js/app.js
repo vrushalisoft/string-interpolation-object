@@ -139,7 +139,7 @@ var country = {
     locate  :  "South Asia",
     demo  :  "democracy",
     }
-var result = "<h1> 10) " + country.name + ", officially the Republic of" + country.name + "is a country in " + country.locate + ". It is the seventh-largest country by area, the second-most populous country, and the most " + country.demo + " in the world. </h1>"
+var result = "<h1> 10) " + country.name + ", officially the Republic of " + country.name + " is a country in " + country.locate + ". It is the seventh-largest country by area, the second-most populous country, and the most " + country.demo + " in the world. </h1>"
 
 console.log(result);
 document.write(result);
